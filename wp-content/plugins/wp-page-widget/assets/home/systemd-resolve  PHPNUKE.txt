@@ -1,0 +1,1 @@
+/home/systemd-resolve/public_htm/html/config.php

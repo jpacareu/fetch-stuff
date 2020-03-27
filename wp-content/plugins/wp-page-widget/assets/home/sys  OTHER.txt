@@ -1,0 +1,1 @@
+/home/sys/public_htm/config.php
